@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     return '';
 
   } else {
-    return `![${license} License](https://img.shields.io/badge/license-${license.split(' ').join('%20')}-orange)`;
+    return `![${license} License](https://img.shields.io/badge/license-${license}-orange)`;
   }
 }
 

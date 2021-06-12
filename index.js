@@ -65,12 +65,9 @@ function init() {
     inquirer
         .prompt(questions)
         .then((data) => {
-            return
-        });
-        generateMarkdown
-            .then((data) => {
-                writeToFile(readme.md, data);
-            });
-}   
+        const result = generateMarkdown(data);
+        writeToFile('readme.md', result)
+    });
+} 
 // Function call to initialize app
 init();
