@@ -1,9 +1,9 @@
-# readme attempt 3
+# readme attempt 5
 
-  ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla Public 2.0-orange)
+  ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla%20Public%202.0-orange)
   ## Description
 
-  trying to get badge to work
+  n/a
 
 
   ## Table of Contents
@@ -41,7 +41,8 @@
 
   n/a
 
-  ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla Public 2.0-orange)
+  ## License
+ Licensed under Mozilla Public 2.0
 
   ## Questions
 

@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     return '';
 
   } else {
-    return `![${license} License](https://img.shields.io/badge/license-${license}-orange)`;
+    return `![${license} License](https://img.shields.io/badge/license-${encodeURI(license)}-orange)`;
   }
 }
 
@@ -27,7 +27,7 @@ function renderLicenseSection(license) {
     return '';
 
   } else {
-    return `## License\n Licensed under ${data}`;
+    return `## License\n Licensed under ${license}`;
   }
 }
 
@@ -58,7 +58,7 @@ function generateMarkdown(data) {
 
   ## Tests\n
   ${data.testInstruct}\n
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseSection(data.license)}
 
   ## Questions\n
   https://github.com/${data.userName}\n
