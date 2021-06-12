@@ -1,9 +1,9 @@
-# readme test 2
+# readme attempt 3
 
   ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla Public 2.0-orange)
   ## Description
 
-  getting badge to work
+  trying to get badge to work
 
 
   ## Table of Contents
@@ -34,7 +34,7 @@
 
   ## Contribution
 
-  jugrajn
+  jug
 
 
   ## Tests

@@ -27,7 +27,7 @@ function renderLicenseSection(license) {
     return '';
 
   } else {
-    return `## License\n Licensed under ${data.license}`;
+    return `## License\n Licensed under ${data}`;
   }
 }
 
