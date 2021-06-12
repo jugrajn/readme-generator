@@ -1,9 +1,9 @@
-# test
+# readme test 2
 
-  ![[object Object] License](https://img.shields.io/badge/license-[object Object]-orange)
+  ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla Public 2.0-orange)
   ## Description
 
-  test
+  getting badge to work
 
 
   ## Table of Contents
@@ -34,14 +34,14 @@
 
   ## Contribution
 
-  sadlfsad
+  jugrajn
 
 
   ## Tests
 
   n/a
 
-  ![[object Object] License](https://img.shields.io/badge/license-[object Object]-orange)
+  ![Mozilla Public 2.0 License](https://img.shields.io/badge/license-Mozilla Public 2.0-orange)
 
   ## Questions
 
