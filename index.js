@@ -66,7 +66,7 @@ function init() {
         .prompt(questions)
         .then((data) => {
         const result = generateMarkdown(data);
-        writeToFile('readme.md', result)
+        writeToFile('readmeGen.md', result)
     });
 } 
 // Function call to initialize app
