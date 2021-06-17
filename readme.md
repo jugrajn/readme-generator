@@ -21,5 +21,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Screenshot
-![Generated Readme Screenshot]('./Assets/screencapture-github-jugrajn-readme-generator-blob-master-readmeGen-md-2021-06-16-23_44_07.png')
-[Application Demo](https://drive.google.com/file/d/1_TUDoD49ZyLp8rniLeZEu9BY0TdSv22l/view)
+![Generated Readme Screenshot](./Assets/screencapture-github-jugrajn-readme-generator-blob-master-readmeGen-md-2021-06-16-23_44_07.png)
+* [Application Demo](https://drive.google.com/file/d/1_TUDoD49ZyLp8rniLeZEu9BY0TdSv22l/view)
